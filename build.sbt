@@ -12,6 +12,6 @@ lazy val root = (project in file(".")).
       scalaTest % Test,
       "com.typesafe.akka" %% "akka-stream" % "2.5.9",
       "com.typesafe.akka" %% "akka-stream-testkit" % "2.5.9" % Test,
-      "com.typ esafe.akka" %% "akka-http"   % "10.1.0-RC1"
+      "com.typesafe.akka" %% "akka-http"   % "10.1.0-RC1"
     )
   )
