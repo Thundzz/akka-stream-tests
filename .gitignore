@@ -3,8 +3,8 @@
 #### scala ####
 *.class
 *.log
-
-
+.idea/modules/root-build.iml
+.idea/modules/root.iml
 #### maven ####
 target/
 pom.xml.tag
